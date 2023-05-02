@@ -8,6 +8,8 @@ Each ant is a solution to the problem in the form of a list. The list consists o
 
 ### Results: 
 ![image](https://user-images.githubusercontent.com/110885397/235709389-10096147-0a78-4e76-bc94-ffcf74294368.png)
+
+
 Global Best Solution: [[1, 13, 7, 29, 5, 12, 9, 19, 15, 21, 1], [1, 24, 4, 3, 20, 18, 32, 22, 1], [1, 8, 11,
 30, 10, 23, 16, 26, 6, 1], [1, 31, 17, 2, 25, 28, 27, 1], [1, 14, 1]]
 Fitness: 1052.111757487989
