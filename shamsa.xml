@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<instance>
+    <info>
+        <dataset>Augerat 1995 — Set A</dataset>
+        <name>A-n32-k05</name>
+    </info>
+    <network>
+        <nodes>
+            <node id="1" type="0">
+                <cx>82.0</cx>
+                <cy>76.0</cy>
+            </node>
+            <node id="2" type="1">
+                <cx>96.0</cx>
+                <cy>44.0</cy>
+            </node>
+            <node id="3" type="1">
+                <cx>50.0</cx>
+                <cy>5.0</cy>
+            </node>
+            <node id="4" type="1">
+                <cx>49.0</cx>
+                <cy>8.0</cy>
+            </node>
+            <node id="5" type="1">
+                <cx>13.0</cx>
+                <cy>7.0</cy>
+            </node>
+        </nodes>
+        <euclidean/>
+        <decimals>0</decimals>
+    </network>
+    <fleet>
+        <vehicle_profile type="0">
+            <departure_node>1</departure_node>
+            <arrival_node>1</arrival_node>
+            <capacity>50.0</capacity>
+        </vehicle_profile>
+    </fleet>
+    <requests>
+        <request id="1" node="2">
+            <quantity>19.0</quantity>
+        </request>
+        <request id="2" node="3">
+            <quantity>21.0</quantity>
+        </request>
+        <request id="3" node="4">
+            <quantity>6.0</quantity>
+        </request>
+        <request id="4" node="5">
+            <quantity>19.0</quantity>
+        </request>
+        
+    </requests>
+</instance>
